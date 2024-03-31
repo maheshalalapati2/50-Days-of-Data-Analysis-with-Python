@@ -1,0 +1,21 @@
+Service ID,Service Type,Service Cost,Service Revenue,Number of Customers,Advertising Cost,Location
+1,Oil Change,$25,$50,10,$100,Urban
+2,Brake Repair,$200,$500,5,$50,Suburban
+3,Tire Rotation,$30,$75,12,$150,Rural
+4,Transmission Repair,$1000,$2500,2,$200,Urban
+5,Battery Replacement,$150,$300,8,$75,Suburban
+6,Engine Diagnostic,$75,$200,15,$50,Rural
+7,AC Recharge,$100,$250,7,$100,Urban
+8,Suspension Repair,$500,$1200,3,$150,Suburban
+9,Radiator Flush,$50,$125,20,$100,Rural
+10,Detailing,$200,$400,6,$50,Urban
+11,Wheel Alignment,$75,$200,15,$75,Suburban
+12,Fuel System Cleaning,$150,$350,10,$100,Rural
+13,Windshield Replacement,$300,$700,4,$50,Urban
+14,Headlight Restoration,$50,$100,18,$25,Suburban
+15,Brake Pad Replacement,$150,$400,7,$100,Rural
+16,Alternator Replacement,$500,$1200,4,$150,Urban
+17,Spark Plug Replacement,$75,$150,16,$50,Suburban
+18,Ignition Coil Replacement,$200,$500,8,$75,Rural
+19,Power Steering Flush,$100,$250,9,$100,Urban
+20,Catalytic Converter Replacement,$1000,$2500,2,$200,Suburban
